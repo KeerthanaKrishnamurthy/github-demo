@@ -32,6 +32,9 @@ public class Main {
 
         makeAnimalSpeak(animal);
 
+        Animal buttuUncle = new Uncle();
+        buttuUncle.sleep();
+
     }
 //    static void makeDogSpeak(Dog dog) {
 //        dog.makeSound();
